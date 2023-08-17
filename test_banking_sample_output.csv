@@ -1,7 +1,0 @@
-﻿source,target,edge
-transaction,bank card,fail_with
-bank card,bank card transaction,fail
-bank,bank card transaction,authorise
-bank,bank card,authorise
-card payment,bank card,use
-card payment record,bank card payment,use
